@@ -1,3 +1,5 @@
+# SM-CONOPS: Constrained Nonlinear Optimization Solver
+
 *** Welcome to SM-CONOPS: Constrained Nonlinear Optimization Solver by Suleyman Muti ***
 
 The present Matlab code consists of one main file and four function files. The main file controls the flow of the program, while other four files help defining the problem and checking the validity of the candidate optimum points.
